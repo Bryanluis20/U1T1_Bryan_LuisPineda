@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>CONEJO</item>
+        <item>PERICO</item>
+        <item>PERRO</item>
+        <item>GATO</item>
+        <item>COCODRILO</item>
+        <item>CHINPANCE</item>
+        <item>ABEJA</item>
+        <item>ARDILLA</item>
+        <item>RATON</item>
+        <item>BURRO</item>
+        <item>CABALLO</item>
+        <item>JIRAFA</item>
+        <item>LEON</item>
+        <item>HIPOPOTAMO</item>
+        <item>FLAMENCO</item>
+    </string-array>
+</resources>
